@@ -47,7 +47,7 @@ class Rectangle extends Figure{
 
 public class training {
 	public static void main(String args[]){
-		//TestComment1
+		//TestComment3
 		//TestComment2
 	}
 }
